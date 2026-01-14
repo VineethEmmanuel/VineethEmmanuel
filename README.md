@@ -22,13 +22,6 @@
 
 <br/>
 
-### 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineethEmmanuel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<br/>
-
 📫 **Connect with me:**
 - LinkedIn: [linkedin.com/in/vineethpilli](https://www.linkedin.com/in/vineethpilli)
 - Let's collaborate on AI projects!
