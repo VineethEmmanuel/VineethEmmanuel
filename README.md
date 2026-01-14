@@ -22,14 +22,6 @@
 
 <br/>
 
-### 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VineethEmmanuel&show_icons=true&theme=radical&hide_border=true" alt="Vineeth's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VineethEmmanuel&theme=radical&hide_border=true" alt="Vineeth's streak" />
-</p>
-
-<br/>
-
 ### 📈 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineethEmmanuel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
