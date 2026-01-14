@@ -24,6 +24,7 @@
 
 📫 **Connect with me:**
 - LinkedIn: [linkedin.com/in/vineethpilli](https://www.linkedin.com/in/vineethpilli)
+- Twitter (X): https://x.com/vineeth_pilli
 - Let's collaborate on AI projects!
 
 <br/>
