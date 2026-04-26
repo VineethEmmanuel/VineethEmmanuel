@@ -5,7 +5,7 @@
 
 <br/>
 
-👋 Hi, I'm a first-year BTech student passionate about **AI/ML**, **full-stack development**, and **entrepreneurship**. With 2+ years building mobile apps using React Native, Expo, and Firebase, I'm now pivoting to AI to create scalable, intelligent solutions.
+👋 Hi, I'm a BTech student passionate about **AI/ML**, **full-stack development**, and **entrepreneurship**. With 2+ years building mobile apps using React Native, Expo, and Firebase, I'm now pivoting to AI to create scalable, intelligent solutions.
 
 🚀 **Currently Learning & Building:**
 - Python, Machine Learning (Scikit-Learn, TensorFlow)
